@@ -4,7 +4,7 @@ Slides and materials are hosted at [http://melissa.holmes.io/gdi-core-git-github
 
 ## Course description
 
-This is the official Girl Develop It Core Intro to Git and Github course. Material based on original material by Kim Moir, Daniel Fischer, Aurelia Moser, Carina C. Zona and Izzy Johnston.
+This is the official Girl Develop It Core Intro to Git and Github course. Material based on original material by Kim Moir, Daniel Fischer, Aurelia Moser, Carina C. Zona, Melissa Holmes and Izzy Johnston.
 
 The course is meant to be taught in a two-hour workshop. Each of the slides and practice files are customizable according to the needs of a given class or audience.
 
