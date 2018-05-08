@@ -1,6 +1,6 @@
 # CORE INTRO TO GIT AND GITHUB
 
-Slides and materials are hosted at [https://donimathis.github.io/gdi-core-git-github/#/1](https://donimathis.github.io/gdi-core-git-github/#/1).
+Slides and materials are hosted at [https://donimathis.github.io/gdi-core-git-github/#/](https://donimathis.github.io/gdi-core-git-github/#/).
 
 ## Course description
 
